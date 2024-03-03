@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment Three</string>
+    <string name="water_resource_name">Water Resource Name</string>
+    <string name="location">Location</string>
+</resources>
